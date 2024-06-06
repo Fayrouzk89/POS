@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-![Screenshot](imagesApp/screenshot.png)
+![Screenshot](imagesApp/1.jpg)
+![Screenshot](imagesApp/2.jpg)
+![Screenshot](imagesApp/3.jpg)
 
 A brief description of your project.
 
