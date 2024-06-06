@@ -1,0 +1,48 @@
+import 'package:flutter/material.dart';
+import 'package:hexcolor/hexcolor.dart';
+const Color bgColor = Color(0xffF4F7FA);
+const Color primaryColor = Color(0xffF4F7FA);
+const Color white = Colors.white;
+const Color darkText = Colors.black54;
+const Color highlightColor = Color(0xffEFEFF0);
+const Color helperColor = Color(0xff454084);
+const Color titleColor = Color(0xff444444);
+const Color hintColor = Color(0xFF9F9F9F);
+const Color greyBack = Color(0xFFf2f4f3);
+const Color whiteColor = Colors.white;
+const Color textColor = Color(0xFF000000);
+const String sofia = 'my';
+
+final Color secondaryColor = Color(0xff092B47);
+final Color primaryTextColor = Color(0xff0D2145);
+final Color secondaryTextColor = Color(0xff768791);
+final Color black = Color(0xff45597A);
+final Color grey = Color(0xffC4C4C4);
+final Color backgroundColor = Color(0xffF3F5F8);
+const secondary = Color(0xFFFFA837);
+const darker = Color(0xFF3E4249);
+const cardColor = Color(0xFFEDF0F3);
+const mainColor = Color(0xFF000000);
+const appBgColor = Color(0xFFFAFAFA);
+const shadowColor = Colors.black87;
+const textBoxColor = Color(0xFFe9e9e9);
+Color blackColor1 = HexColor('#424244');
+const bottomBarColor = Colors.black;
+const inActiveColor = Color(0xFF3E4249);
+
+const yellow = Color(0xFFffcb66);
+const green = Color(0xFFb2e1b5);
+const pink = Color(0xFFf5bde8);
+const purple = Color(0xFFd9bcff);
+const red = Color(0xFFFF968A);
+const orange = Color(0xFFFFC8A2);
+const sky = Color(0xFFABDEE6);
+const blue = Color(0xFF509BE4);
+
+const Color kBackground = Color(0xFFF5F5F5);
+const Color kPrimaryColor = Color(0xFFFDB730);
+Color itemListColor = Color(0xFFEEEEEE);
+Color subtitleGray = Color(0xB7B6B6);
+Color blackColor = HexColor('#1A1D26');
+Color orangeColor = HexColor('#e8eeee');
+Color grayColor = HexColor('#9A9FAE');
